@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding:0;
+    font-family: '微软雅黑';
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+
+#app,.layout,.login,.sbs{
+    width:100%;
+}
+body{
+    max-width:10.80rem;
+}
+.mint-cell {
+    background:transparent !important;
+}
+.mint-radio-label {
+    font-size:0.4rem;
+    color:#666;
+}
